@@ -1,7 +1,7 @@
 # DIP
 
-##Using Matlab to implement DIP Algorithms applied an image and then show the results of each Filter.
-##Applied Algorithms:
+Using Matlab to implement DIP Algorithms applied an image and then show the results of each Filter.
+Applied Algorithms:
 ```
 1-Sub-sampling.       2-Gray Scale.                     3-Negative Image.
 4-Log Transform.      5-Power Transform.                6-Contrast Stretching.
@@ -12,7 +12,7 @@
 19-ILPF.              20-BLPF.                          21-GLPF.
 22-Sobel operator.    23-RGB to Gray.
 ```
-##Project provided the following:
+Project provided the following:
 ```
                                1-GUI
                                2-Reset button to make the image back to the previous status.
